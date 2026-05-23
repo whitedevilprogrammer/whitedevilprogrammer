@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ellalan Haridoss
+# 👋 Hi, I'm Ellalan
 
 <h3>Backend Software Engineer | Golang Developer | Microservices Enthusiast</h3>
 
